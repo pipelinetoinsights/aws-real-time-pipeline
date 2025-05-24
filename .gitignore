@@ -1,0 +1,8 @@
+.venv
+terraform/.terraform
+terraform/linux_amd64
+terraform/secrets
+terraform/.terraform.lock.hcl
+terraform/terraform.tfstate
+terraform.tfstate.backup
+lambda_function.zip
